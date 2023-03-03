@@ -1,0 +1,15 @@
+C:\Users\kulic\Desktop\HomeWork\HomeTask8\obj\Debug\net6.0\HomeTask8.csproj.AssemblyReference.cache
+C:\Users\kulic\Desktop\HomeWork\HomeTask8\obj\Debug\net6.0\HomeTask8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulic\Desktop\HomeWork\HomeTask8\obj\Debug\net6.0\HomeTask8.AssemblyInfoInputs.cache
+C:\Users\kulic\Desktop\HomeWork\HomeTask8\obj\Debug\net6.0\HomeTask8.AssemblyInfo.cs
+C:\Users\kulic\Desktop\HomeWork\HomeTask8\obj\Debug\net6.0\HomeTask8.csproj.CoreCompileInputs.cache
+C:\Users\kulic\Desktop\HomeWork\HomeTask8\bin\Debug\net6.0\HomeTask8.exe
+C:\Users\kulic\Desktop\HomeWork\HomeTask8\bin\Debug\net6.0\HomeTask8.deps.json
+C:\Users\kulic\Desktop\HomeWork\HomeTask8\bin\Debug\net6.0\HomeTask8.runtimeconfig.json
+C:\Users\kulic\Desktop\HomeWork\HomeTask8\bin\Debug\net6.0\HomeTask8.dll
+C:\Users\kulic\Desktop\HomeWork\HomeTask8\bin\Debug\net6.0\HomeTask8.pdb
+C:\Users\kulic\Desktop\HomeWork\HomeTask8\obj\Debug\net6.0\HomeTask8.dll
+C:\Users\kulic\Desktop\HomeWork\HomeTask8\obj\Debug\net6.0\refint\HomeTask8.dll
+C:\Users\kulic\Desktop\HomeWork\HomeTask8\obj\Debug\net6.0\HomeTask8.pdb
+C:\Users\kulic\Desktop\HomeWork\HomeTask8\obj\Debug\net6.0\HomeTask8.genruntimeconfig.cache
+C:\Users\kulic\Desktop\HomeWork\HomeTask8\obj\Debug\net6.0\ref\HomeTask8.dll
